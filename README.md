@@ -16,7 +16,7 @@ This is a simple and extensible PHP-based Cron Job Runner and Monitor system. It
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/php-cron-runner.git
+git clone https://github.com/zangane/Cron-Job-Runner-Monitor.git
 ```
 
 ### 2. Include the main class
